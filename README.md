@@ -1,5 +1,10 @@
 # Mahfam Ghorbankhani
 
-Welcome to my GitHub portfolio. I use this space to share coding projects and write about what I learn while building them.
+I build Android apps and websites.
 
-[Browse my repositories](https://github.com/mahfam747-arch?tab=repositories)
+## Featured projects
+
+- [Factorchin](https://github.com/mahfam747-arch/factorchin) — A Persian-language Android app for creating invoices, tracking payments and installments, and exporting invoices as PDFs.
+- [Personal Website](https://github.com/mahfam747-arch/personal-website) — The source code for my personal portfolio.
+
+[Visit my portfolio website](https://mahfam-portfolio-web.vercel.app/)
